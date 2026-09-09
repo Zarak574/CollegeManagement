@@ -3,6 +3,9 @@
 A modern, responsive educational website template for colleges, universities, and training institutes. 
 Built to showcase courses, admissions, events, and college resources in a clean and professional layout.
 
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/ea461f5a-f6ea-4ea9-be18-dcc260d55031" />
+
+
 ## 🎯 Project Purpose
 
 The purpose of ITM College Website is to provide an all-in-one digital platform for educational institutions to:
