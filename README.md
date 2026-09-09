@@ -47,7 +47,11 @@ Displays multiple courses with:
 - **Job Vacancies**: Latest job posts from the institution
 - **Register & Login**: Quick access panel for students
 
-<img width="1148" height="1737" alt="11" src="https://github.com/user-attachments/assets/fff41b13-f6e7-4fa5-806a-49736bbd3dd9" />
+  
 <img width="1148" height="1266" alt="12" src="https://github.com/user-attachments/assets/4073ee10-eb8c-4cf9-b4a6-92de18b05111" />
+
+<img width="1148" height="1737" alt="11" src="https://github.com/user-attachments/assets/fff41b13-f6e7-4fa5-806a-49736bbd3dd9" />
+
 <img width="1148" height="976" alt="13" src="https://github.com/user-attachments/assets/57dccf47-29ba-40dc-971c-bedf4eba3e69" />
+
 <img width="1148" height="991" alt="3" src="https://github.com/user-attachments/assets/9057c249-fa13-4c73-b598-87ed5c03582f" />
